@@ -12,7 +12,7 @@
                         @endforeach
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __(' hey how are you!') }}
                 </div>
             </div>
         </div>
