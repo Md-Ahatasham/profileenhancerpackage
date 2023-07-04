@@ -14,5 +14,12 @@
         "psr-4": {
             "Ahatasham\\ProfileEnhancer\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ahatasham\\ProfileEnhancer\\ProfileEnhancerServiceProvider"
+            ]
+        }
     }
 }
