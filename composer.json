@@ -15,6 +15,7 @@
             "Ahatasham\\ProfileEnhancer\\": "src/"
         }
     },
+    
     "extra": {
         "laravel": {
             "providers": [
